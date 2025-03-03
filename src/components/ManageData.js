@@ -21,4 +21,4 @@ const ManageData = () => {
     )
 }
 
-export default ManageData
+export default ManageData;
